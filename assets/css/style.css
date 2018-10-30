@@ -29,3 +29,8 @@ body,
 .page-footer {
   background-color: #1C2331; }
 
+.more-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
